@@ -1,0 +1,11 @@
+C:\Users\tomas\Desktop\programacion\Contactosproyecto\Contactos\Contactos\bin\Debug\Contactos.exe.config
+C:\Users\tomas\Desktop\programacion\Contactosproyecto\Contactos\Contactos\bin\Debug\Contactos.exe
+C:\Users\tomas\Desktop\programacion\Contactosproyecto\Contactos\Contactos\bin\Debug\Contactos.pdb
+C:\Users\tomas\Desktop\programacion\Contactosproyecto\Contactos\Contactos\obj\Debug\Contactos.csprojAssemblyReference.cache
+C:\Users\tomas\Desktop\programacion\Contactosproyecto\Contactos\Contactos\obj\Debug\Contactos.ContactDetails.resources
+C:\Users\tomas\Desktop\programacion\Contactosproyecto\Contactos\Contactos\obj\Debug\Contactos.Main.resources
+C:\Users\tomas\Desktop\programacion\Contactosproyecto\Contactos\Contactos\obj\Debug\Contactos.Properties.Resources.resources
+C:\Users\tomas\Desktop\programacion\Contactosproyecto\Contactos\Contactos\obj\Debug\Contactos.csproj.GenerateResource.cache
+C:\Users\tomas\Desktop\programacion\Contactosproyecto\Contactos\Contactos\obj\Debug\Contactos.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Desktop\programacion\Contactosproyecto\Contactos\Contactos\obj\Debug\Contactos.exe
+C:\Users\tomas\Desktop\programacion\Contactosproyecto\Contactos\Contactos\obj\Debug\Contactos.pdb
